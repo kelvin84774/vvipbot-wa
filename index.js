@@ -15,13 +15,13 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'VVIPINDO BOT'; 
-const instagram = 'agus_alnsyh71- kaelMk_'; 
-const aktif = 'Kapan bot aktif';
+const BotName = 'KILLUA BOT'; 
+const instagram = 'killua Zoldyck- kaelMk_'; 
+const aktif = 'Terserah owner';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Agus\n' // Nama kamu
-            + 'ORG:VVIPINDO;\n' // Nama bot
+            + 'FN:Killua\n' // Nama kamu
+            + 'ORG:Killua;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=6289613469459:+62 896-1346-9459\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
@@ -1451,6 +1451,7 @@ Silakan pilih :
 
 }
 //Hay gay
-//create @agusalnsyh don't delate this please
+//create @Killua
+ don't delate this please
 	
 })
